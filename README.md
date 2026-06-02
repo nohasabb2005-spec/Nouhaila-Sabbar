@@ -63,7 +63,7 @@ Pipeline de données complet basé sur le scraping et la transformation :
 
 ## 📫 Contact
 - 📧 Email : nohasabb2005@gmail.com  
-- 🔗 LinkedIn : ton profil LinkedIn  
+- 🔗 LinkedIn : https://www.linkedin.com/in/nouhaila-sabbar-85882a365?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🌍 Maroc  
 
 ---
